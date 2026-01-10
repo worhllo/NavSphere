@@ -1208,6 +1208,14 @@
               "href": "https://catbox.moe/",
               "description": "",
               "icon": "https://catbox.moe/pictures/favicon.ico"
+            },
+            {
+              "id": "item-1768051343342",
+              "enabled": true,
+              "title": "文件快递柜 - FileCodeBox",
+              "href": "https://share.lanol.cn/#/",
+              "description": "访问 share.lanol.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=share.lanol.cn"
             }
           ]
         },
