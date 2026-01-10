@@ -755,6 +755,14 @@
               "description": "访问 payloadcms.com",
               "icon": "/assets/favicon_1763352611319.webp",
               "enabled": true
+            },
+            {
+              "id": "item-1768051551145",
+              "enabled": true,
+              "title": "MoePush - 可爱又强大的消息推送服务",
+              "href": "https://pushing.142587.de5.net/moe/endpoints",
+              "description": "登录到 MoePush",
+              "icon": "/assets/favicon_1768051531230.ico"
             }
           ]
         },
