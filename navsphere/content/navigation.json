@@ -1144,6 +1144,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "a1825400-80f6-4540-928a-71d0008a6958",
+          "title": "临时工具",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
