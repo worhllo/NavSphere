@@ -949,6 +949,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "879b7a75-d2fe-43d3-8aa9-5323f8aab40f",
+          "title": "提取下载",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
