@@ -1167,7 +1167,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1768051097180",
+              "enabled": true,
+              "title": "Catbox",
+              "href": "https://catbox.moe/",
+              "description": "",
+              "icon": "https://catbox.moe/pictures/favicon.ico"
+            }
+          ]
         },
         {
           "id": "a1825400-80f6-4540-928a-71d0008a6958",
