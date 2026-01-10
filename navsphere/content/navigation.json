@@ -1111,6 +1111,14 @@
               "href": "https://zh.bgsub.com/webapp/",
               "description": "",
               "icon": "/assets/favicon_1768051241149.png"
+            },
+            {
+              "id": "item-1768051695943",
+              "enabled": true,
+              "title": "免费4K高清壁纸-电脑背景图片-Mac壁纸网站「哲风壁纸」",
+              "href": "https://haowallpaper.com/?isSel=true&page=2",
+              "description": "哲风壁纸为广大壁纸爱好者提供交流和分享的平台，站内包含海量「4K-8K」高清「电脑桌面壁纸」「动态壁纸」「素材图片」「手机壁纸」「头像制作」均可「免费下载」",
+              "icon": "/assets/favicon_1768051686125.ico"
             }
           ],
           "enabled": true
