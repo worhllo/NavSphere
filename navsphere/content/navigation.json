@@ -1199,6 +1199,14 @@
               "href": "https://chrome.zzzmh.cn/extension?category=0&page=1",
               "description": "访问 chrome.zzzmh.cn",
               "icon": "/assets/favicon_1768050183073.png"
+            },
+            {
+              "id": "item-1768051639397",
+              "enabled": true,
+              "title": "Greasy Fork - 安全且实用的用户脚本站",
+              "href": "https://gf.qytechs.cn/zh-CN",
+              "description": "",
+              "icon": "/assets/favicon_1768051627601.png"
             }
           ]
         },
