@@ -956,7 +956,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1768051207113",
+              "enabled": true,
+              "title": "AnyToCopy | 免费在线视频文案提取，一键抖音文案提取，支持50+平台文案提取与音频提取,职得文案提取",
+              "href": "https://www.anytocopy.com/",
+              "description": "访问 www.anytocopy.com",
+              "icon": "/assets/favicon_1768051199712.png"
+            }
+          ]
         }
       ]
     },
