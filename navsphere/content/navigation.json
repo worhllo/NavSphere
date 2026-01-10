@@ -1356,6 +1356,14 @@
               "description": "Simple line Icons pack",
               "icon": "/assets/images/logos/simplelineicons.webp",
               "enabled": true
+            },
+            {
+              "id": "item-1768051457622",
+              "enabled": true,
+              "title": "Sanyue ImgHub",
+              "href": "https://imgbed.142588.xyz/login",
+              "description": "Sanyue ImgHub - A modern file hosting platform",
+              "icon": "/assets/favicon_1768051448382.png"
             }
           ]
         },
