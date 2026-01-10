@@ -1061,6 +1061,14 @@
               "href": "https://tool.lu/timestamp",
               "description": "访问 tool.lu",
               "icon": "/assets/favicon_1768051054405.png"
+            },
+            {
+              "id": "item-1768051662582",
+              "enabled": true,
+              "title": "在线工具 - ToolB",
+              "href": "https://toolb.cn/",
+              "description": "",
+              "icon": "/assets/favicon_1768051655532.svg"
             }
           ],
           "enabled": true
