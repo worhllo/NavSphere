@@ -1297,6 +1297,14 @@
               "href": "https://tempmail.142587.de5.net/zh-CN/moe",
               "description": "安全、快速、一次性的临时邮箱地址，保护您的隐私，远离垃圾邮件。支持邮箱分享、即时收件，到期自动失效。提供完整的 OpenAPI 接口，方便开发者集成和自动化测试。",
               "icon": "/assets/favicon_1768051478725.ico"
+            },
+            {
+              "id": "item-1768052074664",
+              "enabled": true,
+              "title": "Random Address Generator - 40+ Countries | Free Online Tool",
+              "href": "https://addressgen.top/",
+              "description": "Generate realistic addresses for 40+ countries including US, Canada, UK, Australia, Germany, Japan, France, Italy, Spain and more. Free online tool for registration, testing &amp; privacy. Real postal codes included.",
+              "icon": "/assets/favicon_1768052068449.svg"
             }
           ]
         }
