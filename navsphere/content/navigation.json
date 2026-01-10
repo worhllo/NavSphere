@@ -1007,63 +1007,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "6e0eb7f0-860e-43f0-bede-6e36205483e5",
-          "title": "付费订阅平台",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1759043230164",
-              "title": "Quaily | 为创作者提供现代人工智慧新闻通讯服务",
-              "href": "https://quaily.com/",
-              "description": "Quaily 是一个现代化的，基于 AI 的，新闻订阅服务。它支持多种推送渠道，包括邮件，telegram 和 discord。它与流行的编辑器（如 Obsidian 和 VScode）有很好的集成。",
-              "icon": "/assets/favicon_1759043242645.webp",
-              "enabled": true
-            },
-            {
-              "id": "1759043258513",
-              "title": "Medium: Read and write stories.",
-              "href": "https://medium.com/",
-              "description": "On Medium, anyone can share insightful perspectives, useful knowledge, and life wisdom with the world.",
-              "icon": "/assets/favicon_1759043298903.webp",
-              "enabled": true
-            },
-            {
-              "id": "1759043324693",
-              "title": "Substack",
-              "href": "https://substack.com/",
-              "description": "The app for independent voices",
-              "icon": "/assets/favicon_1759043330135.svg",
-              "enabled": true
-            },
-            {
-              "id": "1759043375128",
-              "title": "微信公众平台",
-              "href": "https://mp.weixin.qq.com/",
-              "description": "微信公众平台支持付费合集，付费文章",
-              "icon": "/assets/favicon_1759043379047.webp",
-              "enabled": true
-            },
-            {
-              "id": "1759043449477",
-              "title": "小报童",
-              "href": "https://xiaobot.net/",
-              "description": "付费专栏，体面而用心地创作",
-              "icon": "/assets/favicon_1759043454631.webp",
-              "enabled": true
-            },
-            {
-              "id": "1759043585524",
-              "title": "知识星球",
-              "href": "https://zsxq.com/",
-              "description": "知识星球是创作者连接铁杆粉丝，实现知识变现的工具。任何从事创作或艺术的人，例如艺术家、工匠、教师、学术研究、科普等，只要能获得一千位铁杆粉丝，就足够生计无忧，自由创作。社群管理、内容沉淀、链接粉丝等就在知识星球。",
-              "icon": "/assets/favicon_1759043590213.webp",
-              "enabled": true
-            }
-          ]
         }
       ]
     },
