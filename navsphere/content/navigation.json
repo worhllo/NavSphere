@@ -813,6 +813,14 @@
               "description": "Self-hosting platform with superpowers. Deploy apps, databases &#38; 280+ services to your server. Open-source alternative to Heroku.",
               "icon": "/assets/favicon_1761279686786.webp",
               "enabled": true
+            },
+            {
+              "id": "item-1768050847090",
+              "enabled": true,
+              "title": "ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想",
+              "href": "https://www.histat.com/",
+              "description": "访问 www.histat.com",
+              "icon": "/assets/favicon_1768050836614.png"
             }
           ]
         },
