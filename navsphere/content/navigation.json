@@ -1136,6 +1136,14 @@
               "icon": "/assets/favicon_1768050183073.png"
             }
           ]
+        },
+        {
+          "id": "5ef45ac2-e53f-482b-b353-c5df28016bd5",
+          "title": "文件传输",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
