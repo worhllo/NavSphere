@@ -1151,7 +1151,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1768050766530",
+              "enabled": true,
+              "title": "2925邮箱-海量邮",
+              "href": "https://2925.com/login/",
+              "description": "2925邮箱支持多种客户端收发邮件且数据安全加密多端同步。只需要注册一个账号，就能生成海量多个2925子邮箱账号，同时利用一邮多用功能对多个子邮箱邮件进行集中管理。",
+              "icon": "/assets/favicon_1768050760301.png"
+            }
+          ]
         }
       ],
       "description": "",
