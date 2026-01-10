@@ -821,6 +821,14 @@
               "href": "https://www.histat.com/",
               "description": "访问 www.histat.com",
               "icon": "/assets/favicon_1768050836614.png"
+            },
+            {
+              "id": "item-1768051290586",
+              "enabled": true,
+              "title": "CloudFlare优选域名汇总 - CF优选域名",
+              "href": "https://cf.090227.xyz/",
+              "description": "CloudFlare优选域名汇总 - 提供优质的CloudFlare CDN节点信息",
+              "icon": "/assets/favicon_1768051280375.png"
             }
           ]
         },
