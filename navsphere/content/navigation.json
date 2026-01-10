@@ -929,6 +929,14 @@
               "href": "https://down.mptext.top/dashboard/account",
               "description": "",
               "icon": "/assets/favicon_1768052034565.png"
+            },
+            {
+              "id": "item-1768053269746",
+              "enabled": true,
+              "title": "helloworld - 同一个世界，同一行代码",
+              "href": "https://www.helloworld.net/html2md",
+              "description": "Helloworld是全球知名中文IT技术交流平台,创建于2018年,包含原创博客、精品专栏、职业培训、技术教程、资源共享等产品服务,提供原创、优质、完整内容的专业IT技术开发社区。",
+              "icon": "/assets/favicon_1768053252219.ico"
             }
           ]
         },
