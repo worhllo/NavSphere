@@ -1326,6 +1326,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "d42e4702-8e2c-4e49-ac6d-cd996a6eae79",
+          "title": "插件脚本",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
