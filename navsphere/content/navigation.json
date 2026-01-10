@@ -1333,7 +1333,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1768050193207",
+              "enabled": true,
+              "title": "极简插件_全部插件筛选_优质Chrome插件下载网站",
+              "href": "https://chrome.zzzmh.cn/extension?category=0&page=1",
+              "description": "访问 chrome.zzzmh.cn",
+              "icon": "/assets/favicon_1768050183073.png"
+            }
+          ]
         }
       ],
       "description": "",
