@@ -1079,6 +1079,14 @@
               "description": "矢量图形和插图。",
               "icon": "/assets/images/logos/Illustrator.webp",
               "enabled": true
+            },
+            {
+              "id": "item-1768051248954",
+              "enabled": true,
+              "title": "消除或者替换图像背景，无需上传图像 - BgSub",
+              "href": "https://zh.bgsub.com/webapp/",
+              "description": "",
+              "icon": "/assets/favicon_1768051241149.png"
             }
           ],
           "enabled": true
