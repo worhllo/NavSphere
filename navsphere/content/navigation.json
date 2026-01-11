@@ -1444,6 +1444,14 @@
               "href": "https://imgbed.142588.xyz/login",
               "description": "Sanyue ImgHub - A modern file hosting platform",
               "icon": "/assets/favicon_1768051448382.png"
+            },
+            {
+              "id": "item-1768099281600",
+              "enabled": true,
+              "title": "All SVG Icons - Free and Open Source SVG Vector Icons | All SVG Icons",
+              "href": "https://allsvgicons.com/",
+              "description": "",
+              "icon": "https://allsvgicons.com/favicon.ico"
             }
           ]
         },
