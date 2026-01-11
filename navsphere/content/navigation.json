@@ -845,6 +845,14 @@
               "href": "https://cf.090227.xyz/",
               "description": "CloudFlare优选域名汇总 - 提供优质的CloudFlare CDN节点信息",
               "icon": "/assets/favicon_1768051280375.png"
+            },
+            {
+              "id": "item-1768102625916",
+              "enabled": true,
+              "title": "Server酱·Turbo版 | 一个请求通过API将消息推送到个人微信、企业微信、手机客户端和钉钉群、飞书群",
+              "href": "https://sct.ftqq.com/",
+              "description": "Server酱是国内首创、配套软件和开源项目超过2000的个人微信推送API服务。Turbo版更支持客户端、企业微信、微信群和PushDeer等众多通道。",
+              "icon": "/assets/favicon_1768102616357.png"
             }
           ]
         },
