@@ -853,6 +853,14 @@
               "href": "https://sct.ftqq.com/",
               "description": "Server酱是国内首创、配套软件和开源项目超过2000的个人微信推送API服务。Turbo版更支持客户端、企业微信、微信群和PushDeer等众多通道。",
               "icon": "/assets/favicon_1768102616357.png"
+            },
+            {
+              "id": "item-1768116434955",
+              "enabled": true,
+              "title": "Cloudflare 加速",
+              "href": "https://gh.142588.xyz/",
+              "description": "访问 gh.142588.xyz",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=gh.142588.xyz"
             }
           ]
         },
