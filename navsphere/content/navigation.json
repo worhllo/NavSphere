@@ -1304,6 +1304,14 @@
               "href": "https://tool.mintimate.cn/gh/",
               "description": "在线重定向Github链接，使用CloudFlare对Github链接进行加速访问。",
               "icon": "/assets/favicon_1768191725087.png"
+            },
+            {
+              "id": "item-1768191804265",
+              "enabled": true,
+              "title": "GitHub加速下载代理 - 快速访问 GitHub 文件",
+              "href": "https://gh-proxy.com/",
+              "description": "GitHub Proxy，GitHub加速下载代理服务，支持 Releases、Raw、Archive 等资源下载加速，解决 GitHub下载访问慢的问题。",
+              "icon": "/assets/favicon_1768191792152.ico"
             }
           ]
         },
