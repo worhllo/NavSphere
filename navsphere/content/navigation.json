@@ -1296,6 +1296,14 @@
               "href": "https://share.lanol.cn/#/",
               "description": "访问 share.lanol.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=share.lanol.cn"
+            },
+            {
+              "id": "item-1768191767929",
+              "enabled": true,
+              "title": "Github加速-在线工具箱",
+              "href": "https://tool.mintimate.cn/gh/",
+              "description": "在线重定向Github链接，使用CloudFlare对Github链接进行加速访问。",
+              "icon": "/assets/favicon_1768191725087.png"
             }
           ]
         },
