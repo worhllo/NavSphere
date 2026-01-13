@@ -1484,6 +1484,14 @@
               "href": "https://allsvgicons.com/",
               "description": "",
               "icon": "https://allsvgicons.com/favicon.ico"
+            },
+            {
+              "id": "item-1768311618641",
+              "enabled": true,
+              "title": "📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍",
+              "href": "https://emojipedia.org/",
+              "description": "",
+              "icon": "/assets/favicon_1768311606538.ico"
             }
           ]
         },
